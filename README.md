@@ -13,6 +13,8 @@ Write Terraform code that configures the GitHub repository according to the foll
 - assign the user `softservedata` as the code owner for all the files in the `main` branch
 4. A pull request template (pull_request_template.md) should be added to the `.github` directory to allow users to create an issue in the required format:
 
+[Terraform docs github provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
+
 ## Describe your changes
 
 ## Issue ticket number and link
